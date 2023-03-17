@@ -1,0 +1,15 @@
+#score{
+    float:left;
+    margin: 20px;
+    font-size: 20;
+}
+#timer{
+    float: right;
+    margin: 20px;
+    font-size: 20;
+}
+#random_sketch{
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 20px;
+}
